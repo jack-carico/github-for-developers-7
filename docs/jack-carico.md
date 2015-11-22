@@ -1,5 +1,5 @@
-- [ ] Jack Carico
-- [ ] Washington
-- [ ] pizza
-- [ ] cycling
-# add your favorite color please. 
+Jack Carico
+Washington 
+pizza
+cycling
+Favorite Color: Blue
